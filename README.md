@@ -18,6 +18,21 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white) 
 ![Algorithms](https://img.shields.io/badge/Algorithms-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 
+### AI Skills
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=analyzer&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white)
+![Object Tracking](https://img.shields.io/badge/Object%20Tracking-00599C?style=for-the-badge&logo=target&logoColor=white)
+
+![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-3776AB?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-3776AB?style=for-the-badge&logo=databricks&logoColor=white)
+![NMT](https://img.shields.io/badge/NMT-3776AB?style=for-the-badge&logo=google-translate&logoColor=white)
+
+![Speech AI](https://img.shields.io/badge/Speech%20AI-5E35B1?style=for-the-badge&logo=google-assistant&logoColor=white)
+![ASR](https://img.shields.io/badge/ASR-5E35B1?style=for-the-badge&logo=audio-technica&logoColor=white)
+![TTS](https://img.shields.io/badge/TTS-5E35B1?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Voice Cloning](https://img.shields.io/badge/Voice%20Cloning-5E35B1?style=for-the-badge&logo=elevenlabs&logoColor=white)
+
 ### AI Tools & Frameworks
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
